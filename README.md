@@ -25,6 +25,9 @@ cd <project-dir>
 npm install
 npm start
 ```
-It will open localhost:3000 and connect to Backend server Port 8000. You can config API at file Speech.js.
+It will open **localhost:3000** and connect to Backend server **Port 8000**. You can config API at file _Speech.js_.
+
 After run, the front-end look like this:
 ![image](https://user-images.githubusercontent.com/102223527/159685404-e7d97f3c-f389-4780-a9a2-0470a981b3d1.png)
+
+Good luck!
