@@ -1,7 +1,5 @@
 import React from 'react'
 import axios from 'axios'
-// import a from './static/output/a.wav'
-// import ReactAudioPlayer from 'react-audio-player'
 
 const baseURL = 'http://0.0.0.0:8000/TTS'
 
@@ -31,7 +29,7 @@ const Speech = () => {
 	return (
 		<div className="speech">
 			<div className='group'>
-				<h2>Mobifone Text To Speech demo</h2>
+				<h2>Text To Speech demo</h2>
 			</div>
 			<div className="group">
 				<textarea rows='10' value={value} onChange={(e) => setValue(e.target.value)}>{text}</textarea>
