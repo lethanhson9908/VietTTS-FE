@@ -1,5 +1,5 @@
 # VietTTS-FE
-An Vietnamese Text-to-speech web apps demo using ReactJS
+An Vietnamese Text-to-speech web demo using ReactJS
 
 # How to install
 Already tested on Ubuntu 20.04:
