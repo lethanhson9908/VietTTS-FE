@@ -1,7 +1,7 @@
 # VietTTS-FE
-An Vietnamese Text-to-speech web demo using ReactJS
+A simple Vietnamese Text-to-speech web demo using ReactJS
 
-# How to install
+### How to install
 Already tested on Ubuntu 20.04:
 
 First, you have to install NPM to create React app:
@@ -28,6 +28,7 @@ npm start
 It will open **localhost:3000** and connect to Backend server **Port 8000**. You can config API at file _src/Speech.js_.
 
 After run, the front-end look like this:
+
 ![image](https://user-images.githubusercontent.com/102223527/159685404-e7d97f3c-f389-4780-a9a2-0470a981b3d1.png)
 
 Good luck!
